@@ -1,6 +1,8 @@
-# LG Flash Tool Windows
+# LG Flash Tool
 
 ## <a href="https://lgstockrom.com">Firmware</a>
+
+### <a href="https://lgusbdriver.com/category/mac">macOS</a>
 
 ### Hold Power + Volume Up
 
