@@ -1,4 +1,6 @@
-## <a href="https://lgstockrom.com">LG Stock Firmware</a>
+# LG Flash Tool Windows
+
+## <a href="https://lgstockrom.com">Firmware</a>
 
 ### Hold Power + Volume Up
 
